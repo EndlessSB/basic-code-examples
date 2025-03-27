@@ -5,10 +5,17 @@
 - These are useful for people who want to go into Computer Science but have no idea what their doing!
 
 
-## Current Eamples:
+## Current Examples
 
-- .
+<details>
+  <summary>Click to expand</summary>
 
+  - Using files  
+  - Functions  
+  - Number Game  
+  - A basic quiz  
+
+</details>
 
 ## Maintainers:
 
