@@ -12,7 +12,7 @@ print("Welcome to the random number game! The number is between 1 and 30!")
 # While the game is still going keep going
 while game == True:
     # Get the guess from the user
-    guess == input("Guess a number! --> ")
+    guess = int(input("Guess a number! --> "))
     # if guess is over number say its higher
     if guess > number:
       print("Your guess is higher then the number")
